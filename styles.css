@@ -1,11 +1,30 @@
-span {
-  display: inline-block;
-  margin: 20px;
-  padding: 20px;
+/* p.error {
+  color: rgb(255, 0, 0);
 }
-div {
-  /* display: inline; */
-  border: 2px solid crimson;
-  margin: 20px;
+p.success {
+  color: rgb(0, 255, 0);
+}
+p.success.feedback {
+  border: 1px dashed #4fdb4f;
+}
+div#content {
+  background-color: #ebebeb;
   padding: 20px;
+} */
+/* div p {
+  color: purple;
+} */
+div {
+  color: lightcoral;
+  border: 1px solid red;
+  margin: 40px;
+  font-weight: bold;
+}
+div p {
+  border: inherit;
+  margin: inherit;
+  color: crimson;
+}
+p {
+  color: orange;
 }

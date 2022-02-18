@@ -9,3 +9,7 @@ Started basics of HTML
 ## Day 2
 
 Started to learn CSS
+
+## Day 3
+
+Learned classes and selectors
